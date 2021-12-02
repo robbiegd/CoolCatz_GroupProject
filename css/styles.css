@@ -12,3 +12,30 @@ opacity: 1;
 #test {
     color: red;
 }
+
+.title {top: 73px;
+    left: 469px;
+    width: 300px;
+    height: 68px;
+    /* UI Properties */
+    color: var(--unnamed-color-000000);
+    text-align: left;
+    font: normal normal normal 61px/68px Abril Fatface;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.herobg {
+    background-image: url(/images/jonas-geschke-C8wjnVxmVUI-unsplash.jpg);
+    background-size: cover;
+}
+
+.herotext {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-top: 5rem;
+}
+
+.hero {padding-bottom: 15rem;}
