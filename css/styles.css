@@ -1,0 +1,10 @@
+.customhead {
+    top: 0px;
+left: 0px;
+width: 1920px;
+height: 164px;
+/* UI Properties */
+background: #FFC52D 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+opacity: 1;
+}
