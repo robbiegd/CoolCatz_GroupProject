@@ -39,3 +39,13 @@ opacity: 1;
 }
 
 .hero {padding-bottom: 15rem;}
+
+.card-custom-text { 
+    text-align: center;
+
+}
+.card-custom-title { 
+    text-align: center;
+    padding-bottom: 10px;
+
+}
